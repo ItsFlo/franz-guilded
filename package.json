@@ -1,0 +1,16 @@
+{
+	"id": "guilded",
+	"name": "Guilded",
+	"version": "1.0.0",
+	"description": "Guilded.gg",
+	"main": "index.js",
+	"author": "Florian Ostrowski <flo@bosstrowski.de>",
+	"repository": "https://git.bosstrowski.de/franz/guilded.git",
+	"config": {
+		"serviceURL": "https://guilded.gg",
+		"hasNotificationSound": true,
+		"hasDirectMessages": true,
+		"hasIndirectMessages": true,
+		"hasTeamID": false
+	}
+}
